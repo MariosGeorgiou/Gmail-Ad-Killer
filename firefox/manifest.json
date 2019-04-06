@@ -1,7 +1,7 @@
 {
   "description": "Deletes the ads to all webpages matching gmail.com",
   "manifest_version": 2,
-  "name": "AdFreeGmail",
+  "name": "Ad Free Gmail",
   "version": "0.1",
   "homepage_url": "https://github.com/MariosGeorgiou/AdFreeGmail",
   
