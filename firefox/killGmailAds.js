@@ -1,5 +1,16 @@
 /*
-Find the Ads that look like emails and delete them
+Find the Ads that hide inside the email list and delete them
 */
-var x = document.getElementsByClassName('aKB');
-x[0].parentNode.removeChild(x[0]);
+
+function killAds() {
+	var list = document.getElementsByClassName('aKB');
+
+	for (let item of list) {
+		item.parentNode.removeChild(item);
+		console.log("Deleted Ad: " + item.textContent);
+	}
+
+}
+killAds();
+
+window.addEventListener('mouseup', killAds);
