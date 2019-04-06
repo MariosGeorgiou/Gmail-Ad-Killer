@@ -4,6 +4,11 @@
   "name": "AdFreeGmail",
   "version": "0.1",
   "homepage_url": "https://github.com/MariosGeorgiou/AdFreeGmail",
+  
+  "icons": {
+    "48": "icon-48.png",
+    "96": "icon-96.png"
+  },
 
   "content_scripts": [
     {
