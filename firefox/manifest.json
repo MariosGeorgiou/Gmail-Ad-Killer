@@ -1,5 +1,5 @@
 {
-  "description": "Deletes the ads to all webpages matching gmail.com",
+  "description": "Browser extension to delete the annoying and confusing gmail ads",
   "manifest_version": 2,
   "name": "Ad Free Gmail",
   "version": "0.1",
