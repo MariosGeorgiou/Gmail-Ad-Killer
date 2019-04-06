@@ -1,0 +1,14 @@
+{
+  "description": "Deletes the ads to all webpages matching gmail.com",
+  "manifest_version": 1,
+  "name": "AdFreeGmail",
+  "version": "0.1",
+  "homepage_url": "https://github.com/MariosGeorgiou/AdFreeGmail",
+
+  "content_scripts": [
+    {
+      "matches": ["*://*.gmail.com/*"],
+      "js": ["killGmailAds.js"]
+    }
+  ]
+}
