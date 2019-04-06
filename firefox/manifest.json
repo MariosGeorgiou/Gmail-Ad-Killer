@@ -1,9 +1,9 @@
 {
   "description": "Browser extension to delete the annoying and confusing gmail ads",
   "manifest_version": 2,
-  "name": "Ad Free Gmail",
+  "name": "Gmail Ad Killer",
   "version": "0.1",
-  "homepage_url": "https://github.com/MariosGeorgiou/AdFreeGmail",
+  "homepage_url": "https://github.com/MariosGeorgiou/Gmail-Ad-Killer",
   
   "icons": {
     "48": "icons/icon-48.png",
