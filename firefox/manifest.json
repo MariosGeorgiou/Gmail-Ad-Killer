@@ -9,6 +9,12 @@
     "48": "icon-48.png",
     "96": "icon-96.png"
   },
+  
+  "applications": {
+    "gecko": {
+      "id": "mariosge90@gmail.com/adfreegmail"
+    }
+  },
 
   "content_scripts": [
     {
